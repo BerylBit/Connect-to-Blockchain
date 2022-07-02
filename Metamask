@@ -1,0 +1,35 @@
+Install the Metamask Extension from the Store
+Visit the browser extension marketplace and download the MetaMask extension.
+
+
+
+Create a MetaMask Wallet or Import One
+I’d suggest creating a new one if you haven’t done so.
+
+
+Click import wallet if you have an existing wallet.
+
+Setup your password and secret recovery phrase somewhere safe.
+
+Setup MetaMask to connect to Berylbit Mainnet
+
+Switch the connected blockchain by clicking on the tab saying Main Ethereum Network, we need to add the Berylbit network.
+
+
+
+Scroll down until you find Custom RPC.
+
+
+
+Enter in the Avalanche Mainnet settings as follows:
+
+Network Name: Berylbit Mainnet
+New RPC URL:  https://mainnet.berylbit.io
+ChainID: 9012
+Symbol: BRB
+Block Explorer URL: *leave blank for now, will be out soon*
+
+Metamask settings for Berylbit Mainnet
+Click Save.
+
+You have now connected to the Berylbit mainnet with your Metamask Wallet.
